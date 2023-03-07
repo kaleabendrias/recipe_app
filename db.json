@@ -1,0 +1,19 @@
+{
+  "recipies": [
+    {
+      "id": 1,
+      "text": "lemonade",
+      "steps": "2 spoon sugar  1 lemon 1 glass of water"
+    },
+    {
+      "id": 2,
+      "text": "tsebhi",
+      "steps": "wana chew keytebzhi"
+    },
+    {
+      "id": 3,
+      "text": "ruz",
+      "steps": "never do that"
+    }
+  ]
+}

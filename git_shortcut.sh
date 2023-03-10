@@ -2,7 +2,7 @@ echo "Enter your message"
 read message
 git add .
 git commit -m"${message}"
-if [ -n "$(git status - porcelain)" ];
+if [ -n "$(git status)" ];
 then
  echo "IT IS CLEAN"
 else
